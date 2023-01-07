@@ -1,2 +1,2 @@
-# first
-my first ever repo
+# simple, lightwieght and intuitive calculator.
+my first ever repo.
