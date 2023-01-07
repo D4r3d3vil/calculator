@@ -19,7 +19,7 @@ class App:
 
         GButton_136=tk.Button(root)
         GButton_136["bg"] = "#000000"
-        ft = tkFont.Font(family='Times',size=28)
+        ft = tkFont.Font(family='Times New Roman',size=28)
         GButton_136["font"] = ft
         GButton_136["fg"] = "#ffffff"
         GButton_136["justify"] = "center"
